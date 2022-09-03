@@ -1,0 +1,14 @@
+body {
+    background-color: lavender;
+}
+
+.large {
+    font-size: 10em;
+}
+
+.center {
+    margin: auto;
+    padding: none;
+    display: flex;
+    justify-content: center;
+}
